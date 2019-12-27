@@ -11,3 +11,170 @@
 2019-12-25 22:34:04 INFO  EmployeeHibernateApi:45 - selecting all employees
 2019-12-25 22:34:04 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
 2019-12-25 22:35:00 INFO  EmployeeHibernateApi:34 - selecting an employee
+2019-12-27 00:21:33 INFO  Version:46 - HHH000412: Hibernate Core {5.4.0.Final}
+2019-12-27 00:21:33 INFO  Environment:199 - HHH000206: hibernate.properties not found
+2019-12-27 00:21:34 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-27 00:21:34 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 00:21:34 INFO  pooling:115 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/employee]
+2019-12-27 00:21:34 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=increff}
+2019-12-27 00:21:34 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 00:21:34 INFO  DriverManagerConnectionProviderImpl:239 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 00:21:35 INFO  Dialect:158 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-12-27 00:21:37 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1e5c4e91] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2019-12-27 00:21:37 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:21:38 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2019-12-27 00:21:38 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:21:38 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:21:38 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:21:38 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:21:45 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:22:01 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:22:01 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:22:50 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:22:57 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:23:00 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:23:01 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:23:06 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:23:10 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:24:53 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:24:54 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:24:55 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:24:55 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:26:17 INFO  Version:46 - HHH000412: Hibernate Core {5.4.0.Final}
+2019-12-27 00:26:17 INFO  Environment:199 - HHH000206: hibernate.properties not found
+2019-12-27 00:26:18 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-27 00:26:18 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 00:26:18 INFO  pooling:115 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/employee]
+2019-12-27 00:26:18 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=increff}
+2019-12-27 00:26:18 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 00:26:18 INFO  DriverManagerConnectionProviderImpl:239 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 00:26:19 INFO  Dialect:158 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-12-27 00:26:21 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@28e6b298] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2019-12-27 00:26:21 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:26:21 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:26:21 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2019-12-27 00:26:21 ERROR ExceptionMapperStandardImpl:39 - HHH000346: Error during managed flush [org.hibernate.HibernateException: Flush during cascade is dangerous]
+2019-12-27 00:26:37 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:26:37 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:26:41 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:26:42 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:26:43 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:26:44 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:26:45 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:26:46 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:26:47 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:26:48 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:26:49 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:26:49 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:26:49 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:26:50 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:26:50 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:26:50 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:26:50 WARN  SqlExceptionHelper:137 - SQL Error: 1062, SQLState: 23000
+2019-12-27 00:26:50 ERROR SqlExceptionHelper:142 - Duplicate entry '3082' for key 'PRIMARY'
+2019-12-27 00:26:50 ERROR ExceptionMapperStandardImpl:39 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2019-12-27 00:26:50 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:26:50 WARN  SqlExceptionHelper:137 - SQL Error: 1062, SQLState: 23000
+2019-12-27 00:26:50 ERROR SqlExceptionHelper:142 - Duplicate entry '3082' for key 'PRIMARY'
+2019-12-27 00:26:50 ERROR ExceptionMapperStandardImpl:39 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2019-12-27 00:26:51 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:26:51 WARN  SqlExceptionHelper:137 - SQL Error: 1062, SQLState: 23000
+2019-12-27 00:26:51 ERROR SqlExceptionHelper:142 - Duplicate entry '3082' for key 'PRIMARY'
+2019-12-27 00:26:51 ERROR ExceptionMapperStandardImpl:39 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2019-12-27 00:26:51 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:26:51 WARN  SqlExceptionHelper:137 - SQL Error: 1062, SQLState: 23000
+2019-12-27 00:26:51 ERROR SqlExceptionHelper:142 - Duplicate entry '3082' for key 'PRIMARY'
+2019-12-27 00:26:51 ERROR ExceptionMapperStandardImpl:39 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2019-12-27 00:26:51 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:26:51 WARN  SqlExceptionHelper:137 - SQL Error: 1062, SQLState: 23000
+2019-12-27 00:26:51 ERROR SqlExceptionHelper:142 - Duplicate entry '3082' for key 'PRIMARY'
+2019-12-27 00:26:51 ERROR ExceptionMapperStandardImpl:39 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2019-12-27 00:26:51 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:26:51 WARN  SqlExceptionHelper:137 - SQL Error: 1062, SQLState: 23000
+2019-12-27 00:26:51 ERROR SqlExceptionHelper:142 - Duplicate entry '3082' for key 'PRIMARY'
+2019-12-27 00:26:52 ERROR ExceptionMapperStandardImpl:39 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2019-12-27 00:26:56 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:26:56 WARN  SqlExceptionHelper:137 - SQL Error: 1062, SQLState: 23000
+2019-12-27 00:26:56 ERROR SqlExceptionHelper:142 - Duplicate entry '3082' for key 'PRIMARY'
+2019-12-27 00:26:56 ERROR ExceptionMapperStandardImpl:39 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2019-12-27 00:26:59 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:26:59 WARN  SqlExceptionHelper:137 - SQL Error: 1062, SQLState: 23000
+2019-12-27 00:26:59 ERROR SqlExceptionHelper:142 - Duplicate entry '3082' for key 'PRIMARY'
+2019-12-27 00:26:59 ERROR ExceptionMapperStandardImpl:39 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2019-12-27 00:27:00 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:27:00 WARN  SqlExceptionHelper:137 - SQL Error: 1062, SQLState: 23000
+2019-12-27 00:27:00 ERROR SqlExceptionHelper:142 - Duplicate entry '3082' for key 'PRIMARY'
+2019-12-27 00:27:00 ERROR ExceptionMapperStandardImpl:39 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2019-12-27 00:27:00 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:27:00 WARN  SqlExceptionHelper:137 - SQL Error: 1062, SQLState: 23000
+2019-12-27 00:27:00 ERROR SqlExceptionHelper:142 - Duplicate entry '3082' for key 'PRIMARY'
+2019-12-27 00:27:00 ERROR ExceptionMapperStandardImpl:39 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2019-12-27 00:27:00 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:27:00 WARN  SqlExceptionHelper:137 - SQL Error: 1062, SQLState: 23000
+2019-12-27 00:27:01 ERROR SqlExceptionHelper:142 - Duplicate entry '3082' for key 'PRIMARY'
+2019-12-27 00:27:01 ERROR ExceptionMapperStandardImpl:39 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2019-12-27 00:27:01 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:27:01 WARN  SqlExceptionHelper:137 - SQL Error: 1062, SQLState: 23000
+2019-12-27 00:27:01 ERROR SqlExceptionHelper:142 - Duplicate entry '3082' for key 'PRIMARY'
+2019-12-27 00:27:01 ERROR ExceptionMapperStandardImpl:39 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2019-12-27 00:27:05 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:27:05 WARN  SqlExceptionHelper:137 - SQL Error: 1062, SQLState: 23000
+2019-12-27 00:27:05 ERROR SqlExceptionHelper:142 - Duplicate entry '3082' for key 'PRIMARY'
+2019-12-27 00:27:05 ERROR ExceptionMapperStandardImpl:39 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2019-12-27 00:27:10 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:27:10 WARN  SqlExceptionHelper:137 - SQL Error: 1062, SQLState: 23000
+2019-12-27 00:27:10 ERROR SqlExceptionHelper:142 - Duplicate entry '3082' for key 'PRIMARY'
+2019-12-27 00:27:10 ERROR ExceptionMapperStandardImpl:39 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2019-12-27 00:27:18 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:27:22 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:27:24 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:27:25 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:27:25 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:27:28 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:27:28 WARN  SqlExceptionHelper:137 - SQL Error: 1062, SQLState: 23000
+2019-12-27 00:27:28 ERROR SqlExceptionHelper:142 - Duplicate entry '0' for key 'PRIMARY'
+2019-12-27 00:27:28 ERROR ExceptionMapperStandardImpl:39 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2019-12-27 00:27:35 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:39:22 INFO  Version:46 - HHH000412: Hibernate Core {5.4.0.Final}
+2019-12-27 00:39:22 INFO  Environment:199 - HHH000206: hibernate.properties not found
+2019-12-27 00:39:23 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-27 00:39:23 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 00:39:23 INFO  pooling:115 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/employee]
+2019-12-27 00:39:23 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=increff}
+2019-12-27 00:39:23 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 00:39:23 INFO  DriverManagerConnectionProviderImpl:239 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 00:39:25 INFO  Dialect:158 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-12-27 00:39:26 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@a3ed8e6] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2019-12-27 00:39:27 INFO  EmployeeHibernateApi:23 - inserting employees
+2019-12-27 00:39:27 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 00:39:27 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2019-12-27 01:12:36 INFO  Version:46 - HHH000412: Hibernate Core {5.4.0.Final}
+2019-12-27 01:12:36 INFO  Environment:199 - HHH000206: hibernate.properties not found
+2019-12-27 01:12:36 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-27 01:12:37 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 01:12:37 INFO  pooling:115 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/employee]
+2019-12-27 01:12:37 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=increff}
+2019-12-27 01:12:37 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 01:12:37 INFO  DriverManagerConnectionProviderImpl:239 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 01:12:37 INFO  Dialect:158 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-12-27 01:12:38 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@278fc2c9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2019-12-27 01:12:38 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 01:12:38 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2019-12-27 01:12:38 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 01:12:39 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 01:12:40 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 01:12:47 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 01:12:53 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 01:13:43 INFO  Version:46 - HHH000412: Hibernate Core {5.4.0.Final}
+2019-12-27 01:13:43 INFO  Environment:199 - HHH000206: hibernate.properties not found
+2019-12-27 01:13:44 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-12-27 01:13:44 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-12-27 01:13:44 INFO  pooling:115 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/employee]
+2019-12-27 01:13:44 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=increff}
+2019-12-27 01:13:44 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2019-12-27 01:13:44 INFO  DriverManagerConnectionProviderImpl:239 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-12-27 01:13:45 INFO  Dialect:158 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-12-27 01:13:47 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@51482e48] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2019-12-27 01:13:47 INFO  EmployeeHibernateApi:45 - selecting all employees
+2019-12-27 01:13:47 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2019-12-27 01:13:53 INFO  EmployeeHibernateApi:45 - selecting all employees
